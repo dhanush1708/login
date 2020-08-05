@@ -55,9 +55,9 @@ const Home = ({ navigation }) => {
         navigation.navigate("SignUp")
     }
 
-    const button_test = () => {
-        console.warn("pressed")
-    }
+    // const button_test = () => {
+    //     console.warn("pressed")
+    // }
 
 
     return (
